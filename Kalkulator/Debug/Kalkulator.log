@@ -1,0 +1,3 @@
+﻿  Kalkulator.cpp
+c:\users\monika\desktop\testy\kalkulator\kalkulator\kalkulator.cpp(25): warning C4101: "blad": lokalna zmienna, do której nie istnieje odwołanie
+  Kalkulator.vcxproj -> C:\Users\Monika\Desktop\Testy\Kalkulator\Debug\Kalkulator.exe
